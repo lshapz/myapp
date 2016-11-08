@@ -1,0 +1,6 @@
+<%= form_for @top do |f| -%>
+<p>  <%= f.label :jacket, "Jacket" %><%= f.text_field :jacket %></p>
+<p><%= f.label :shirt, "Shirt" %> <%= f.text_field :shirt %> </p>
+<p><%= f.label :overshirt, "Overshirt" %> <%= f.text_field :overshirt %> </p>
+<p><%= f.submit "Submit", :disable_with => 'Submiting...' %></p>
+<% end %>
