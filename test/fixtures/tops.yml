@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  jacket: MyString
+  shirt: MyString
+  overshirt: MyString
+
+two:
+  jacket: MyString
+  shirt: MyString
+  overshirt: MyString

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  high_temp: 1.5
+  low_temp: 1.5
+  wind_chill: 1.5
+
+two:
+  high_temp: 1.5
+  low_temp: 1.5
+  wind_chill: 1.5
